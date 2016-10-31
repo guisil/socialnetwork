@@ -1,0 +1,1 @@
+Code created as an exercise. It loads a social network from a text file containing connections between people and calculates the shortest path between two given people in the network.
